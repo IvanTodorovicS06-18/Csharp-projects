@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Kolokvijum2.Uredjaj">
+    <Position X="6.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAoAAQCggAAIAACABAAAgAAAAAAQIAICAA=</HashCode>
+      <FileName>Uredjaj.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Kolokvijum2.Tablet">
+    <Position X="12.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAAAgAAAAAIgAAAAAIAAAAAAAAAAAAEAAAAAAAAACAA=</HashCode>
+      <FileName>Tablet.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Kolokvijum2.SignleBoardRacunari">
+    <Position X="3.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>SignleBoardRacunari.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Kolokvijum2.MobilniTelefoni">
+    <Position X="14.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAAAgAAAAAIgAAAAAIAAQAAAAAAAAAAAAAAAAAABCAA=</HashCode>
+      <FileName>MobilniTelefoni.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Kolokvijum2.LaptopRacunari">
+    <Position X="1" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oIAAgAAEAAIoAAAAAIAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>LaptopRacunari.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Kolokvijum2.DesktopRacunari">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>gAAAgAAEAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DesktopRacunari.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Kolokvijum2.GamingKonzole">
+    <Position X="10.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAgAAEAAAoAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GamingKonzole.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Kolokvijum2.Iuredjaj" Collapsed="true">
+    <Position X="6.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAACgAAAAAAAABAAAgAAAAAAQIAIAAA=</HashCode>
+      <FileName>Interfejsi.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Kolokvijum2.IdesktopRacunari" Collapsed="true">
+    <Position X="2" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfejsi.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Kolokvijum2.IlaptopRacunari" Collapsed="true">
+    <Position X="1" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IIAAgAAEAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfejsi.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Kolokvijum2.IsignleBoardRacunari" Collapsed="true">
+    <Position X="3.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Interfejsi.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Kolokvijum2.Itablet" Collapsed="true">
+    <Position X="12.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAgAAAAAIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfejsi.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Kolokvijum2.IgamingKonzole" Collapsed="true">
+    <Position X="10.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAgAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfejsi.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Kolokvijum2.ImobilniTelefoni" Collapsed="true">
+    <Position X="14.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAgAAAAAIAAAAAAAAAQAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Interfejsi.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

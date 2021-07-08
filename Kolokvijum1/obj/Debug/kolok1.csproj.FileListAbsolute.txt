@@ -1,0 +1,10 @@
+C:\Users\todor\OneDrive\Desktop\treca godina\CSharp\kolok1\bin\Debug\kolok1.exe.config
+C:\Users\todor\OneDrive\Desktop\treca godina\CSharp\kolok1\bin\Debug\kolok1.exe
+C:\Users\todor\OneDrive\Desktop\treca godina\CSharp\kolok1\bin\Debug\kolok1.pdb
+C:\Users\todor\OneDrive\Desktop\treca godina\CSharp\kolok1\obj\Debug\kolok1.csprojAssemblyReference.cache
+C:\Users\todor\OneDrive\Desktop\treca godina\CSharp\kolok1\obj\Debug\kolok1.Form1.resources
+C:\Users\todor\OneDrive\Desktop\treca godina\CSharp\kolok1\obj\Debug\kolok1.Properties.Resources.resources
+C:\Users\todor\OneDrive\Desktop\treca godina\CSharp\kolok1\obj\Debug\kolok1.csproj.GenerateResource.cache
+C:\Users\todor\OneDrive\Desktop\treca godina\CSharp\kolok1\obj\Debug\kolok1.csproj.CoreCompileInputs.cache
+C:\Users\todor\OneDrive\Desktop\treca godina\CSharp\kolok1\obj\Debug\kolok1.exe
+C:\Users\todor\OneDrive\Desktop\treca godina\CSharp\kolok1\obj\Debug\kolok1.pdb

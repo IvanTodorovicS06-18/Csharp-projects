@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClsFibonaciDll", "ClsFibonaciDll\ClsFibonaciDll.csproj", "{E3F9C503-C74E-44F8-A7E0-5903E644F4AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClsFibonaciDebug", "ClsFibonaciDebug\ClsFibonaciDebug.csproj", "{EEB00F27-E2E4-4DC7-A883-60DE782553E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3F9C503-C74E-44F8-A7E0-5903E644F4AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3F9C503-C74E-44F8-A7E0-5903E644F4AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3F9C503-C74E-44F8-A7E0-5903E644F4AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3F9C503-C74E-44F8-A7E0-5903E644F4AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEB00F27-E2E4-4DC7-A883-60DE782553E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB00F27-E2E4-4DC7-A883-60DE782553E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB00F27-E2E4-4DC7-A883-60DE782553E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB00F27-E2E4-4DC7-A883-60DE782553E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8056030-8301-4A67-B158-9B9A3D720572}
+	EndGlobalSection
+EndGlobal
